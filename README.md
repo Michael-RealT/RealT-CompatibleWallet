@@ -6,10 +6,14 @@ For a wallet to be considered compatible, you must have the private/seed key of 
 ## Compatible
 - [Ledger](https://www.ledger.com/)
 - [Metamask](https://metamask.io/)
-- 
-- 
-- 
-- 
+- [Trust Wallet](https://trustwallet.com/)
+- [Meet One](https://meet.one/)
+- [Bridge Wallet](https://www.mtpelerin.com/fr/bridge-wallet)
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ## No-Compatible
 - Binance
