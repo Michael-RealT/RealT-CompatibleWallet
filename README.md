@@ -9,9 +9,9 @@ For a wallet to be considered compatible, you must have the private/seed key of 
 - [Trust Wallet](https://trustwallet.com/)
 - [Meet One](https://meet.one/)
 - [Bridge Wallet](https://www.mtpelerin.com/fr/bridge-wallet)
-- []()
-- []()
-- []()
+- [Argent](https://www.argent.xyz/)
+- [Exodus](https://www.exodus.io/)
+- [Atomic Wallet](https://atomicwallet.io/)
 - []()
 - []()
 
