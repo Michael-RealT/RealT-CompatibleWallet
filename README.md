@@ -40,3 +40,4 @@ For a wallet to be considered compatible, you must have the private/seed key of 
 - [MEW Wallet](https://mewconnect.myetherwallet.com/#/)
 - [Gnosis Safe android](https://play.google.com/store/apps/details?id=pm.gnosis.heimdall&hl=de)
 - [Gnosis safe OS](https://apps.apple.com/us/app/gnosis-safe-smart-wallet/id1447390375)
+-
