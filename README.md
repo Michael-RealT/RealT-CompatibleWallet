@@ -29,7 +29,7 @@ For a wallet to be considered compatible, you must have the private/seed key of 
 - Crypto.com
 - Crex24
 - Poloniex
--
+- Test
 -
 
 ## To be confirmed
